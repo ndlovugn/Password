@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Password Checker/Generator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="inputHint">Type and Check or Generate</string>
+    <string name="btnCheck">Check Password</string>
+    <string name="btnGenerate">Generate Password</string>
+
+</resources>

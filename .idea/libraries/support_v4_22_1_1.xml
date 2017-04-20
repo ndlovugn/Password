@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="support-v4-22.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/cb2604ff1902a4ac17651fac647d734a7e34f14c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cb2604ff1902a4ac17651fac647d734a7e34f14c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/cb2604ff1902a4ac17651fac647d734a7e34f14c/output/jars/libs/internal_impl-22.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.1.1/support-v4-22.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
